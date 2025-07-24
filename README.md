@@ -9,3 +9,4 @@ One big lesson? Not every color looks good on a website! We spent time exploring
 We also realized how important high-quality, relevant images are in food-based platforms. They don’t just fill space — they tell a story. And of course, we made sure our site was responsive on all devices, because that’s something we see in every great website.
 
 Southern Cravings is more than a project to us — it’s our way of blending tradition with technology and showing what’s possible when creativity meets collaboration.
+🎥 [Watch the project demo video](https://www.linkedin.com/feed/update/urn:li:activity:7345379541600649216/)
